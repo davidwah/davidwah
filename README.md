@@ -1,9 +1,12 @@
-### Hi there 👋
+## Hi I'm David Wahyu Pratomo 👋
 
 ![David GitHub stats](https://github-readme-stats.vercel.app/api?username=davidwah&show_icons=true&theme=dracula&hide=stars,issues)
 
+---
+### Find me on  
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/david-wahyu-pratomo)  
 
-
+![](https://visitor-badge.glitch.me/badge?page_id=davidwah.davidwah)
 <!--
 **davidwah/davidwah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
