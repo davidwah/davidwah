@@ -7,7 +7,14 @@
 - 👨🏻‍💻 Most of my projects are available on **[Github](https://github.com/davidwah?tab=repositories)**.
 
 - 📫 How to reach me **me@dwp.my.id**.
+
+### Find me at: 
+<a href="https://dwp.my.id/" rel="noopener"><img class="alignnone" title="DWP!" src="https://img.shields.io/badge/dwp-blog-informational.svg?style=for-the-badge" alt="dwp-blog" height="28" />
+</a> - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/david-wahyu-pratomo) - [![Telegram](	https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/davidwah) 
+
 <!--
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/david_wahyu)
+
 - 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/xx/view?usp=sharing)**.  
 - 🌱 I’m currently learning **Dart**.
 -->  
@@ -15,8 +22,7 @@
 ![David GitHub stats](https://github-readme-stats.vercel.app/api?username=davidwah&show_icons=true&theme=dracula&hide=stars,issues)  
 ![David GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=davidwah&theme=algolia&_icons=true&theme=dracula&hide=stars,issues)  
 ---
-### Find me at: 
-[![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://dwp.my.id/) - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/david-wahyu-pratomo) - [![Telegram](	https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/davidwah) - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/david_wahyu)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidwah&label=Profile%20views&color=0e75b6&style=flat" alt="davidwah" /> </p>
 
