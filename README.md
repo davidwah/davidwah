@@ -6,7 +6,7 @@
 
 - 👨🏻‍💻 Most of my projects are available on **[Github](https://github.com/davidwah?tab=repositories)**.
 
-- 📫 How to reach me **me@dwp.my.id**.
+- 📫 How to reach me **me@dwp.my.id** or [@davidwah](https://t.me/davidwah).
 
 ### Find me at: 
 <a href="https://dwp.my.id/" rel="noopener"><img class="alignnone" title="DWP!" src="https://img.shields.io/badge/dwp-blog-informational.svg?style=for-the-badge" alt="dwp-blog" height="28" />
