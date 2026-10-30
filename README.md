@@ -1,49 +1,69 @@
-<h1 align="center">Hi 👋, I'm David Wahyu Pratomo</h1>
-<h3 align="center">A passionate DevOps, Backend developer from Sidoarjo</h3>
-
- 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=davidwah&label=Profile%20views&color=0e75b6&style=flat" alt="davidwah" /> </p>  
-
-- 👨🏻‍💻 Most of my projects are available on **[Github](https://github.com/davidwah?tab=repositories)**.
-
-- 📫 How to reach me **me@dwp.my.id** or [@davidwah](https://t.me/davidwah).
-
-### Find me at: 
-<a href="https://dwp.my.id/" rel="noopener"><img class="alignnone" title="DWP!" src="https://img.shields.io/badge/dwp-blog-informational.svg?style=for-the-badge" alt="dwp-blog" height="28" />
-</a> - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/david-wahyu-pratomo) - [![Telegram](	https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/davidwah) 
-
-<!--
-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/david_wahyu)
-
-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/xx/view?usp=sharing)**.  
-- 🌱 I’m currently learning **Dart**.
--->  
----
-![David GitHub stats](https://github-readme-stats.vercel.app/api?username=davidwah&show_icons=true&theme=dracula&hide=stars,issues)  
-![David GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=davidwah&theme=algolia&_icons=true&theme=dracula&hide=stars,issues)  
----
+<h1 align="center">Hi, I'm David Wahyu Pratomo  👋</h1>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=davidwah&label=Profile%20views&color=0e75b6&style=flat" alt="davidwah" /> </p>
+### IT Infrastructure & Cloud | DevOps | Cybersecurity | Technical Educator
 
+I build, manage, and secure technology infrastructure — and turn hands-on engineering experience into practical learning experiences.
 
-<!--
-![](https://visitor-badge.glitch.me/badge?page_id=davidwah.davidwah)
--->  
-<img src="https://camo.githubusercontent.com/b867e04377eea646939445ce4e0565253428256abc39c6d32d7b67aab3160d18/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572" theme=tokyonight/>
+I'm an Informatics Teacher at **SMK Telkom Sidoarjo, Indonesia**, where I develop technical learning activities and lab environments around Linux, networking, cloud infrastructure, DevOps, and cybersecurity.
+
+My approach is simple: **Build technology. Share knowledge. Empower people.**
 
 ---
-<!--
-**davidwah/davidwah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## What I Work On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Area | Focus |
+| --- | --- |
+| ☁️ **Cloud & Infrastructure** | Linux, Proxmox VE, virtualization, LXC, Docker, Kubernetes |
+| ⚙️ **DevOps & Automation** | CI/CD, GitHub Actions, GitLab CI, Ansible, infrastructure automation |
+| 🛡️ **Cybersecurity** | Network security, firewalls, IDS/IPS, traffic analysis, defensive security |
+| 🎓 **Technical Education** | Hands-on labs, technical learning materials, project-based learning, mentoring |
+
+## Selected Projects
+
+A curated selection of public repositories. Each project is presented according to its actual scope.
+
+### Infrastructure & Cloud
+
+- **[vagrant-siskom](https://github.com/davidwah/vagrant-siskom)** — A Vagrant-based environment for provisioning a virtual machine used in computer systems learning.
+- **[terraform-openstack-instance](https://github.com/davidwah/terraform-openstack-instance)** — Terraform configuration and workflow for provisioning an instance on OpenStack.
+- **[go-apps-k8s](https://github.com/davidwah/go-apps-k8s)** — A practical example of packaging a Go application with Docker and deploying it to Kubernetes.
+
+### Technical Education & IoT
+
+- **[IoT-Narotama](https://github.com/davidwah/IoT-Narotama)** — Workshop material for building an Internet of Things server.
+
+### Learning References
+
+- **[belajar-kubernetes](https://github.com/davidwah/belajar-kubernetes)** — A forked learning reference for Kubernetes. Original project: [khannedy/belajar-kubernetes](https://github.com/khannedy/belajar-kubernetes).
+
+> I distinguish original work, experiments, learning references, and forked repositories so visitors can understand my contributions clearly.
+
+---
+
+## Teaching & Learning Interests
+
+I enjoy creating practical learning experiences in:
+
+- Linux server administration and networking fundamentals
+- Network security, firewall, IDS/IPS, and defensive security
+- Cloud computing, virtualization, and container orchestration
+- DevOps workflows, CI/CD, and infrastructure automation
+- Technical documentation and project-based learning
+
+I am especially interested in open educational resources, reproducible lab environments, and learning projects that help students move from theory to implementation.
+
+## Let's Connect
+
+- 🌐 Website: [dwp.my.id](https://dwp.my.id)
+- 💼 LinkedIn: [David Wahyu Pratomo](https://www.linkedin.com/in/david-wahyu-pratomo/)
+- 📧 Email: [me@dwp.my.id](mailto:me@dwp.my.id)
+- 💬 Telegram: [@davidwah](https://t.me/davidwah)
+
+I'm open to connecting with educators, engineers, technology communities, recruiters, and organizations in Indonesia and internationally — especially around Cloud, DevOps, Cybersecurity, and Technical Education.
+
+---
+
+<sub>Based in Sidoarjo, East Java, Indonesia · Documentation may be published in English or Bahasa Indonesia.</sub>
+
